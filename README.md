@@ -8,6 +8,8 @@ use with FireRed V1.1
 Apply at the following link: https://www.marcrobledo.com/RomPatcher.js/
 Apply Intro patch, then this patch  
 
+**IF YOU ARE USING IRONMON PATCHER . EXE, YOU MUST PATCH WITH THAT BEFORE THIS PATCH OR IT WILL OVERWRITE MT. MOON ITEMS BACK TO NORMAL BECAUSE ITS STUPID
+
 CHANGES IN THIS PATCH:  
 *100% Item Spawns in Underground Pass, Routes 20 and 21, and in various locations around the Sevii Islands (credit to Dr. Maple for this code)
 
