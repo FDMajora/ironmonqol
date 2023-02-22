@@ -1,10 +1,10 @@
 # ironmonqol
-quality of life patch for firered Ironmon 
-intended to be used with this randomizer from Something Smart: https://github.com/something-smart/ironmon-randomizer
-and this intro skip patch from DrSeil: https://github.com/DrSeil/FireRed-Intro-Patch
+quality of life patch for firered Ironmon  
+intended to be used with this randomizer from Something Smart: https://github.com/something-smart/ironmon-randomizer  
+and this intro skip patch from DrSeil: https://github.com/DrSeil/FireRed-Intro-Patch  
 use IN PLACE of the Dr. Maple FireRed StepItemSpawn patch!
 
-CHANGES IN THIS PATCH:
+CHANGES IN THIS PATCH:  
 *100% Item Spawns in Underground Pass, Routes 20 and 21, and in various locations around the Sevii Islands (credit to Dr. Maple for this code)
 
 *100% Item Spawns in Mt. Moon for all 6 possible rng hidden items
