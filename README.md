@@ -4,6 +4,9 @@ intended to be used with this randomizer from Something Smart: https://github.co
 and this intro skip patch from DrSeil: https://github.com/DrSeil/FireRed-Intro-Patch  
 use IN PLACE of the Dr. Maple FireRed StepItemSpawn patch!
 
+use with FireRed V1.1  
+Apply Intro patch, then this patch  
+
 CHANGES IN THIS PATCH:  
 *100% Item Spawns in Underground Pass, Routes 20 and 21, and in various locations around the Sevii Islands (credit to Dr. Maple for this code)
 
