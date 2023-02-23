@@ -1,11 +1,14 @@
 # ironmonqol
-quality of life patch for firered Ironmon  
+quality of life patches for Ironmon
 intended to be used with this randomizer from Something Smart: https://github.com/something-smart/ironmon-randomizer  
-and this intro skip patch from DrSeil: https://github.com/DrSeil/FireRed-Intro-Patch  
-use IN PLACE of the Dr. Maple FireRed StepItemSpawn patch!
 
-use with FireRed V1.1  
+and this intro skip patch from DrSeil for FireRed: https://github.com/DrSeil/FireRed-Intro-Patch  
+or this intro patch from Dr. Maple for Emerald: https://github.com/DrMaple/ironmon-patches/releases/tag/EmeraldQoLPatch
 Apply at the following link: https://www.marcrobledo.com/RomPatcher.js/
+
+FIRERED:  
+use my FireRed Patch IN PLACE of the Dr. Maple FireRed StepItemSpawn patch!  
+use with FireRed V1.1  
 Apply Intro patch, then this patch  
 
 **IF YOU ARE USING IRONMON PATCHER . EXE, YOU MUST PATCH WITH THAT BEFORE THIS PATCH OR IT WILL OVERWRITE MT. MOON ITEMS BACK TO NORMAL BECAUSE ITS STUPID
@@ -20,3 +23,16 @@ CHANGES IN THIS PATCH:
 *Rock Tunnel is fully lit. There is no need to memorize the movement, run around in the dark, or try to find some way to unlock the flash HM
 
 *Forgettable HMs. HMs are still attached to the reusable HM items, but can now be forgotten. The purpose of this is to enable the "HM moves learnable by level-up" option in the randomizer without having pokemon be stuck with HMs like Flash or Cut, and making them far less runnable
+
+
+EMERALD:  
+use with base Emerald Rom  
+Apply Dr. Maple's patch first, then mine
+
+CHANGES:
+
+100% Run Away Chance from wild encounters  
+
+Forgettable HMs  
+
+Granite Cave and Victory Road no longer require the use of flash. NOTE: Brawly's gym is still dark due to not being tied to flash, instead being linked to the mechanics of beating trainers in the gym, and I have no desire to try and mess with that
