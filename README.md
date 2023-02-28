@@ -3,7 +3,7 @@ quality of life patches for Ironmon
 intended to be used with this randomizer from Something Smart: https://github.com/something-smart/ironmon-randomizer  
 
 and this intro skip patch from DrSeil for FireRed: https://github.com/DrSeil/FireRed-Intro-Patch  
-or this intro patch from Dr. Maple for Emerald: https://github.com/DrMaple/ironmon-patches/releases/tag/EmeraldQoLPatch
+or this intro patch from Dr. Maple for Emerald: https://github.com/DrMaple/ironmon-patches/releases/tag/EmeraldQoLPatch  
 Apply at the following link: https://www.marcrobledo.com/RomPatcher.js/
 
 FIRERED:  
