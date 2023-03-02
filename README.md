@@ -27,7 +27,7 @@ CHANGES IN THIS PATCH:
 
 EMERALD:  
 use with base Emerald Rom  
-Apply Dr. Maple's patch first, then mine
+Apply my patch FIRST, then Dr. Maple's early game speed patch. Patching the other way around will result in the reuse repel menu glitching out.
 
 CHANGES:
 
